@@ -11,4 +11,4 @@ xLoader is an utility to program or flash HEX file onto ATmega328 and other AVR 
 5. Select right baud rate in case of Arduino Uno it's 115200
 6. Finally hit Upload Button
 
-<img src="https://github.com/binaryupdates/xLoader/blob/master/xloader_atmega328.jpg" alt="Girl in a jacket" align="center" width="400" height="300">
+![xloader_atmega328](https://github.com/RoboRaceOrg/AlphaMu/assets/139197095/1eb987d9-2850-496b-ab23-f60cbfa471fe)

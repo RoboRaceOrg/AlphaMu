@@ -1,8 +1,8 @@
 # AlphaMu
 
-##How to Upload Hex File to Roboracer Alpha microcontroller Using xLoader
+## How to Upload Hex File to Roboracer Alpha microcontroller Using xLoader
 
-###The following steps will help us use XLoader to upload HEX file on ATmega328 (Arduino Uno).
+### The following steps will help us use XLoader to upload HEX file on ATmega328 (Arduino Uno).
 
 1. Open xLoader
 1. Browse the HEX File from AVR Project/Atmeal Studio Project

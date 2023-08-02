@@ -26,15 +26,15 @@ You can find the code for Roboracer Alpha Mu here:-
  ```
 sudo apt-get install avrdude
 ```
-1. Make project folder in user home:
+3. Make project folder in user home:
 ```
 mkdir RoboracerAlphaMu™
 ```
-1. Find your serial device (tty)
+4. Find your serial device (tty)
 ```
 ls -l /dev/ttyUSB* && ls -l /dev/ttyS*
 ```
-1. Install the file called
+5. Install the file called
 ```
 avrdude -v -p atmega328p -c arduino -P /dev/ttyUSB0 -b 57600 -D -U flash:w:/home/RoboracerAlphaMu™/avrdude/RoboracerAlphaMu™.ino.hex:i
 ```

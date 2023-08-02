@@ -34,7 +34,7 @@ mkdir RoboracerAlphaMu™
 ```
 ls -l /dev/ttyUSB* && ls -l /dev/ttyS*
 ```
-5. Install the file called
+5. The file is called:- RoboracerAlphaMu™.ino.hex, make sure you provide the P parameter with the value for your serial device on your computer.
 ```
 avrdude -v -p atmega328p -c arduino -P /dev/ttyUSB0 -b 57600 -D -U flash:w:/home/RoboracerAlphaMu™/avrdude/RoboracerAlphaMu™.ino.hex:i
 ```

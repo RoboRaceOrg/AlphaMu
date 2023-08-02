@@ -1,4 +1,4 @@
-# Alpha Mu™
+# Roboracer Alpha Mu™
 
 ## How to Upload Hex File to Roboracer Alpha microcontroller Using xLoader
 

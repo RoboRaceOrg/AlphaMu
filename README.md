@@ -1,4 +1,4 @@
-# Roboracer Alpha Mu™
+# Roboracer Alpha Mu™ Firmware
 
 Download this code as a zip file and extract the contents onto your computer. You will need to launch the xLoader program from the folder you extracted the zipped files into.
 

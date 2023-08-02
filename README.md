@@ -1,5 +1,7 @@
 # Roboracer Alpha Mu™
 
+Download this code as a zip file and extract the contents onto your computer. You will need to launch the xLoader program from the folder you extracted the zipped files into.
+
 ## How to Upload Hex File to Roboracer Alpha microcontroller Using xLoader
 
 ### The following steps will help us use XLoader to upload HEX file on ATmega328 (Arduino Uno).

@@ -29,7 +29,7 @@ sudo apt-get install avrdude
 ```
 1. Make project folder in user home:
 ```
-mkdir avrdude
+mkdir RoboracerAlphaMu™
 ```
 1. Find your serial device (tty)
 ```

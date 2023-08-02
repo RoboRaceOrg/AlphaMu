@@ -24,7 +24,6 @@ You can find the code for Roboracer Alpha Mu here:-
 1. Download and extract the contents of the zip file into your home directory.
 1. Install Avrdude
  ```
-cd
 sudo apt-get install avrdude
 ```
 1. Make project folder in user home:

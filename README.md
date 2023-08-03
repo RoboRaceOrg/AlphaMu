@@ -120,7 +120,3 @@ avrdude done.  Thank you.
 ```
 
 
-
-
-
-Roboracer Alpha Mu is a Trademark of INNOBATE LLC

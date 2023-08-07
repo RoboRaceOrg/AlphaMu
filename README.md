@@ -5,6 +5,8 @@ Download this code as a zip file and extract the contents onto your computer. Yo
 You can find the code for Roboracer Alpha Mu here:-
 [Roboracer Alpha Mu™ Firmware repository](https://github.com/RoboRaceOrg/AlphaMu)
 
+If you want to know more about the Roboracer Alpha Mu™ robot you can visit the [Roboracer Alpha™ Wiki](https://github.com/RoboRaceOrg/AlphaMu/wiki)
+
 
 ## How to Upload Roboracer Alpha Mu firmware to Roboracer Alpha microcontroller Using xLoader for Windows PC
 
